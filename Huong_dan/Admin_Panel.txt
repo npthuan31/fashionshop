@@ -1,3 +1,0 @@
-Link: yourdomain.com/admin
-Username: admin@admin.com
-Password: Aa123456
